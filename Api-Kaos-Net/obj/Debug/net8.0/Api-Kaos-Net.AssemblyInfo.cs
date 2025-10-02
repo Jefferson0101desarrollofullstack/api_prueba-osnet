@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api-Kaos-Net")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+661abdedacda978af14dbf2a6657de30e9da5177")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28a588afa06c7ec444918378e99372bacf337f6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api-Kaos-Net")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api-Kaos-Net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

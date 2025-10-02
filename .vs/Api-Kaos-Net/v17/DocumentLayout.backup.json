@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Downloads\\api\\api_prueba-osnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BDD698-0717-4CFC-AEFF-5184A728EBD2}|Api-Kaos-Net\\Api-Kaos-Net.csproj|c:\\users\\usuario\\downloads\\api\\api_prueba-osnet\\api-kaos-net\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C1BDD698-0717-4CFC-AEFF-5184A728EBD2}|Api-Kaos-Net\\Api-Kaos-Net.csproj|solutionrelative:api-kaos-net\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\usuario\\Downloads\\api\\api_prueba-osnet\\Api-Kaos-Net\\Dockerfile",
+              "RelativeDocumentMoniker": "Api-Kaos-Net\\Dockerfile",
+              "ToolTip": "C:\\Users\\usuario\\Downloads\\api\\api_prueba-osnet\\Api-Kaos-Net\\Dockerfile",
+              "RelativeToolTip": "Api-Kaos-Net\\Dockerfile",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-02T13:00:06.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
